@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **VueJS**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SHAGOR-AHMED](https://github.com/SHAGOR-AHMED)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SHAGOR-AHMED)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **to.solaman.badsha@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SHAGOR-AHMED](https://github.com/SHAGOR-AHMED)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fgVOCGF6cS57Hw5jKLKdRJRKZouHiCVg/view?usp=share_link)
 
 - ⚡ Fun fact **I love Shopping and Travelling**
 
