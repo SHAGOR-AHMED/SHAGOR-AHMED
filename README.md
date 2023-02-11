@@ -21,17 +21,12 @@
 
 - ⚡ Fun fact **I love Shopping and Travelling**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/shagor-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shagor-ahmed" height="30" width="40" /></a>
 <a href="https://dev.to/shagor-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shagor-ahmed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sb.shagor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sb.shagor" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shagor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shagor" height="30" width="40" /></a>
-<a href="https://fb.com/sb.shagor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sb.shagor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
